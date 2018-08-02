@@ -1,6 +1,6 @@
 # FomoNEO
 
-FomoNEO is blockchain game inspired by the famous [Fomo3D](https://exitscam.me/p), which gathered 20kETH within just one week. FomoNEO is participating in 1st NEO Game Competition.
+FomoNEO is blockchain lottery game that is participating in 1st NEO Game Competition.
 
 ## Features
 
@@ -21,13 +21,13 @@ FomoNEO has following features:
 
 # 中文
 
-FomoNEO是一款区块链游戏。受到著名的[Fomo3D](https://exitscam.me/p)的启发，我们开发了FomoNEO作为我们的参赛作品参与到首届NEO区块链游戏开发大赛的竞逐中。Fomo3D奖池在短短一周内就累积到了惊人的2万以太币。
+FomoNEO是一款区块链彩票游戏。我们开发了FomoNEO作为我们的参赛作品参与到首届NEO区块链游戏开发大赛的竞逐中。
 
 ## 特性
 
 FomoNEO有着如下主要优势:
 
-1. 更简洁的游戏规则让玩家更容易理解和参与到游戏中来。
+1. 简洁的游戏规则让玩家更容易理解和参与到游戏中来。
 2. 充分利用NEO给予移动客户端的RPC模式，降低了玩家的准入门槛。 
 3. 免费的GAS交易很好的避免的了资产的损耗。
 4. NEO相对ETH快速的交易给玩家带来了更好的用户体验。
